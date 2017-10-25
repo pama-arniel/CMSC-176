@@ -1,0 +1,7 @@
+SepalLengthCm,SepalWidthCm
+1.4,0.2,Iris-setosa
+1.4,0.2,Iris-setosa
+4.5,1.5,Iris-versicolor
+4.9,1.5,Iris-versicolor
+6,2.5,Iris-virginica
+5.9,2.1,Iris-virginica
