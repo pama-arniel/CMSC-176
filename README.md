@@ -1,4 +1,4 @@
 # CMSC-176
-> Special Topics in Artificial Intelligence
+  > Introduction to Machine Learning
 
-> BSCS-3, AY 2017-2018, First Sem
+  > BSCS-3, AY 2017-2018, First Sem
